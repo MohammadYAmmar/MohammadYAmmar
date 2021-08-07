@@ -1,13 +1,12 @@
 ### Hi there 👋, I'm Eng. Mohammad Yaser Ammar
-
 <p align="left">I love technology, so I entered my field. Currently, a graduate in Computer Engineering. During the study period, I experimented with many fields through competition projects and additional projects with the subjects I studied, and I am interested and enjoy linking techniques with each other to create unique work.
 You can find my all projects and practices in here.</p>
-< align="left">Connect with me:</p>
+<p align="left">Connect with me:</p>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammad-y-ammar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MohammadYAmmar" height="30" width="40" /></a>
 </p>
 <p align="left">Languages and Tools:</p>
-<p align="left"> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src=https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="c" width="40" height="40"/> </a> </p>
+<p align="left"> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/java/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohammadYAmmar&label=Profile%20views&color=0e75b6&style=flat" alt="MohammadYAmmar" /> </p>
 
 <!--
