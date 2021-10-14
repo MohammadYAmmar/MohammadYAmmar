@@ -8,7 +8,7 @@ Video in YouTube: https://www.youtube.com/watch?v=BNCBGkdswC8
 
 Smart methods training tasks:
 #### In the path of the Internet of Things:
-1 - [UI control panel to IoT for Robots]([https://link](https://github.com/MohammadYAmmar/UI-control-panel-to-IoT-for-Robots))
+1 - [UI control panel to IoT for Robots](https://github.com/MohammadYAmmar/UI-control-panel-to-IoT-for-Robots)
 
 2 - [UI control panel for Robots by MIT App Inventor](https://github.com/MohammadYAmmar/UI-control-panel-for-Robots-by-MIT-App-Inventor)
 
