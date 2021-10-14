@@ -6,6 +6,8 @@ You can find my all projects and practices in here.</p>
   <a href="https://www.arduino.cc"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Arduino/arduino.png" alt="arduino" width="40" height="40"/> <img src="https://komarev.com/ghpvc/?username=MohammadYAmmar&label=Profile%20views&color=0e75b6&style=flat" alt="MohammadYAmmar" /> </p>
 <img alt="Mohammad Yaser Ammar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammadyammar" /> 
 
+
+[Project details and classifications](https://github.com/MohammadYAmmar/MohammadYAmmar/blob/main/Projects_classification.md)
 <!--
 **MohammadYAmmar/MohammadYAmmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
