@@ -30,11 +30,11 @@ Smart methods training tasks:
 
 #### In the path of the Artificial intelligence:
 
-    1 -[How to install a ROS AR | EN](https://github.com/MohammadYAmmar/How-to-install-a-ROS-AR-EN)
+1 -[How to install a ROS AR | EN](https://github.com/MohammadYAmmar/How-to-install-a-ROS-AR-EN)
 
-    2 - [Entry to computer vision and smart operations via Python [ 4 projects ]](https://github.com/MohammadYAmmar/entry-to-computer-vision-and-smart-operations-via-Python)
+2 - [Entry to computer vision and smart operations via Python [ 4 projects ]](https://github.com/MohammadYAmmar/entry-to-computer-vision-and-smart-operations-via-Python)
 
-    3 - [Basic applications in the ROS system](https://github.com/MohammadYAmmar/Basic-applications-in-the-ROS-system)
+3 - [Basic applications in the ROS system](https://github.com/MohammadYAmmar/Basic-applications-in-the-ROS-system)
 
 
 #### In the path of the robotics path:
