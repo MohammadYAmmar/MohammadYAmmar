@@ -6,6 +6,13 @@ Video in YouTube: https://www.youtube.com/watch?v=BNCBGkdswC8
 
 [![IMAGE ALT TEXT](https://i.ytimg.com/vi/BNCBGkdswC8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgJcnAN6Ef9l1EGzzC-XgveMcNpQ)](http://www.youtube.com/watch?v=https://www.youtube.com/watch?v=BNCBGkdswC8 "An Investigation of Taibah University Network Application Faults Using a Monitoring Algorithm")
 
+# Ideas I implemented while learning the skills:
+1 - [Arduino Uno to IoT with an old laptop](https://github.com/MohammadYAmmar/Arduino-Uno-to-IoT-with-old-laptop)
+
+2 - [Shell script Video to GIF Windows Subsystem Linux](https://github.com/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux)
+
+todo complete
+
 # Contribute to projects on GitHub:
 1 - [NetworkScanner: Add Parallel Programming](https://github.com/MohammadYAmmar/NetworkScanner)
 
@@ -13,6 +20,8 @@ Video in YouTube: https://www.youtube.com/watch?v=BNCBGkdswC8
 
 3 - [WMI Hardware Info: Add Unit Testing 🧪 with explain | The owner of the repository thanked me and accepted the additions to his project](https://github.com/MohammadYAmmar/WMIHardwareInfo-with-Unit-Testing)
 
+### Additional projects during the bachelor's degree of computer engineering
+todo
 
 # Smart methods training tasks:
 #### In the path of the Internet of Things:
