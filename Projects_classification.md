@@ -4,14 +4,18 @@ An Investigation of Taibah University Network Application Faults Using a Monitor
 
 Video in YouTube: https://www.youtube.com/watch?v=BNCBGkdswC8
 
-[![IMAGE ALT TEXT](https://i.ytimg.com/vi/BNCBGkdswC8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgJcnAN6Ef9l1EGzzC-XgveMcNpQ)](http://www.youtube.com/watch?v=https://www.youtube.com/watch?v=BNCBGkdswC8 "An Investigation of Taibah University Network Application Faults Using a Monitoring Algorithm")
+[![IMAGE ALT TEXT](https://i.ytimg.com/vi/BNCBGkdswC8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgJcnAN6Ef9l1EGzzC-XgveMcNpQ)](https://www.youtube.com/watch?v=BNCBGkdswC8 "An Investigation of Taibah University Network Application Faults Using a Monitoring Algorithm")
 
 # Ideas I implemented while learning the skills:
+##### Ready to use, But the update is still going on:
 1 - [Arduino Uno to IoT with an old laptop](https://github.com/MohammadYAmmar/Arduino-Uno-to-IoT-with-old-laptop)
 
 2 - [Shell script Video to GIF Windows Subsystem Linux](https://github.com/MohammadYAmmar/Shell-script-Video-to-GIF-Windows-Subsystem-Linux)
 
-todo complete
+##### Develop from time to time:
+
+3 - [Learn OOP interactively by C sharp](https://github.com/MohammadYAmmar/Learn-OOP-interactively-by-C-sharp)
+
 
 # Contribute to projects on GitHub:
 1 - [NetworkScanner: Add Parallel Programming](https://github.com/MohammadYAmmar/NetworkScanner)
@@ -20,8 +24,10 @@ todo complete
 
 3 - [WMI Hardware Info: Add Unit Testing 🧪 with explain | The owner of the repository thanked me and accepted the additions to his project](https://github.com/MohammadYAmmar/WMIHardwareInfo-with-Unit-Testing)
 
-### Additional projects during the bachelor's degree of computer engineering
-todo
+# Additional projects during the bachelor's degree of computer engineering:
+1 - [Design Moore FSM project via Quartus and ModelSim: Digital Systems Design course](https://github.com/MohammadYAmmar/Design-Moore-FSM-project-via-Quartus-and-ModelSim)
+
+2 - [Entry to NS3 simulation: Mobile and wireless networks course](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation) 
 
 # Smart methods training tasks:
 #### In the path of the Internet of Things:
