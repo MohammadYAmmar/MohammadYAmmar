@@ -6,7 +6,15 @@ Video in YouTube: https://www.youtube.com/watch?v=BNCBGkdswC8
 
 [![IMAGE ALT TEXT](https://i.ytimg.com/vi/BNCBGkdswC8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBgJcnAN6Ef9l1EGzzC-XgveMcNpQ)](http://www.youtube.com/watch?v=https://www.youtube.com/watch?v=BNCBGkdswC8 "An Investigation of Taibah University Network Application Faults Using a Monitoring Algorithm")
 
-Smart methods training tasks:
+# Contribute to projects on GitHub:
+1 - [NetworkScanner: Add Parallel Programming](https://github.com/MohammadYAmmar/NetworkScanner)
+
+2 - [WMI Monitor Csharp: Correcting problems to run in 2021 and explain a utility for queries to WMI](https://github.com/MohammadYAmmar/WMI_Monitor_Csharp)
+
+3 - [WMI Hardware Info: Add Unit Testing 🧪 with explain | The owner of the repository thanked me and accepted the additions to his project](https://github.com/MohammadYAmmar/WMIHardwareInfo-with-Unit-Testing)
+
+
+# Smart methods training tasks:
 #### In the path of the Internet of Things:
 1 - [UI control panel to IoT for Robots](https://github.com/MohammadYAmmar/UI-control-panel-to-IoT-for-Robots)
 
@@ -21,6 +29,7 @@ Smart methods training tasks:
 6 - [Social Spacing with MIT App Inventor](https://github.com/MohammadYAmmar/Social-Spacing-with-MIT-App-Inventor)
 
 7 - [Build and integrate Tidio chatbot with site](https://github.com/MohammadYAmmar/Build-and-integrate-Tidio-chat-bot-with-site)
+
 8 - [Build and integrate IBM Watson chatbot](https://github.com/MohammadYAmmar/Build-and-integrate-IBM-Watson-chatbot)
 
 9 - [Control panel program for robot arm with databases for Windows devices via C#](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp)
