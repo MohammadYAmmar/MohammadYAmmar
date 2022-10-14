@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Eng. Mohammad Yaser Ammar
-<p align="left">I love technology, so I entered the computer field. Currently, a graduate in Computer Engineering. During the Academy trip, I experimented in many fields through competition projects and extra projects with the subjects; because I am interested in and enjoyed linking techniques to create unique work. I principle in several volunteer activities. I am looking forward to a new challenge opportunity in my career to get a job. I won third place in the Devogame competition 2021 cloud and cybersecurity competition 🥉</p> 
+<p align="left"> I have a passion for technology, so I entered my field. Currently, a graduate in Computer Engineering. During the Academy trip, I experimented in many fields through extra projects and competition; because I am interested in and enjoyed linking techniques to unique work. Last year, I I won third place in the Devogame competition 2021 cloud and cybersecurity competition 🥉. I am looking forward to a new challenge opportunity in my career to get a job.
+</p> 
 <p align="left">You can find my all projects and practices here. But press for
 
  [Project details and classifications](https://github.com/MohammadYAmmar/MohammadYAmmar/blob/main/Projects_classification.md)
@@ -10,8 +11,8 @@
 <p align="left">Connect with me:</p> <a href="https://www.linkedin.com/in/mohammad-y-ammar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MohammadYAmmar" height="30" width="40" /></a> </p> 
 
 <p>My stackoverflow and leetcode:</p> <p> <a href="https://stackoverflow.com/users/9244680/mohammad-yaser-ammar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="MohammadYAmmar" height="30" width="40" /></a> <a href="https://leetcode.com/Mohammad_Y_Ammar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Mohammad_Y_Ammar" height="30" width="40" /></a> </p>
-# Stats
-<img alt="Mohammad Yaser Ammar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammadyammar" /> 
+
+ <img alt="Mohammad Yaser Ammar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammadyammar" /> 
 
 # Coding Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadyammar)](https://github.com/mohammadyammar/github-readme-stats)
