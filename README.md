@@ -12,10 +12,21 @@
 
 <p>My stackoverflow and leetcode:</p> <p> <a href="https://stackoverflow.com/users/9244680/mohammad-yaser-ammar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="MohammadYAmmar" height="30" width="40" /></a> <a href="https://leetcode.com/Mohammad_Y_Ammar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Mohammad_Y_Ammar" height="30" width="40" /></a> </p>
 
+### GitHub Stats 📈
+
+<div>
+<a href="https://github.com/mohammadyammar">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadyammar&layout=compact&langs_count=7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadyammar&show_icons=true"/>
+</div>
+
+<!--
+
  <img alt="Mohammad Yaser Ammar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammadyammar" /> 
 
 # Coding Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadyammar)](https://github.com/mohammadyammar/github-readme-stats)
+-->
 
 <!--
 **MohammadYAmmar/MohammadYAmmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
