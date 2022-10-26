@@ -19,8 +19,8 @@
 
 ### GitHub Stats 📈
 
-<div>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadyammar&theme=city_light&hide_border=true)<br/>
+<div>
 <a href="https://github.com/mohammadyammar">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadyammar&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadyammar&layout=compact&langs_count=10"/>
