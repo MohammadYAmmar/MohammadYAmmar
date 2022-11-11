@@ -14,10 +14,10 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-y-ammar/)](https://www.linkedin.com/in/mohammad-y-ammar/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-y-ammar/)](https://www.linkedin.com/in/mohammad-y-ammar/) -->
 
-<!-- 
-<p>My stackoverflow and leetcode:</p> <p> <a href="https://stackoverflow.com/users/9244680/mohammad-yaser-ammar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="MohammadYAmmar" height="30" width="40" /></a> <a href="https://leetcode.com/Mohammad_Y_Ammar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Mohammad_Y_Ammar" height="30" width="40" /></a> </p> -->
+
+<p>My stackoverflow and leetcode:</p> <p> <a href="https://stackoverflow.com/users/9244680/mohammad-yaser-ammar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="MohammadYAmmar" height="30" width="40" /></a> <a href="https://leetcode.com/Mohammad_Y_Ammar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Mohammad_Y_Ammar" height="30" width="40" /></a> </p>
 
 ### GitHub Stats 📈
 
