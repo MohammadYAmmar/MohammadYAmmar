@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Eng. Mohammad Yaser Ammar
-- 🔭 I'm currently working as Data Analyst Developer
+🔭 I'm currently working as Data Analyst Developer
 
 <p align="left"> I have a passion for technology, so I entered my field. Currently, a graduate in Computer Engineering. During the Academy trip, I experimented in many fields through extra projects and competitions; because I am interested in and enjoyed linking techniques to unique work. Last year, I won third place in the Devogame competition 2021 cloud and cybersecurity competition 🥉. I am looking forward to a new challenging opportunity in my career to get a job.
 </p> 
