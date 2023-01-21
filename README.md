@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Eng. Mohammad Yaser Ammar
 🔭 I'm currently working as Data Analyst Developer
 
-<p align="left"> I have a passion for technology, so I entered my field. Currently, a graduate in Computer Engineering. During the Academy trip, I experimented in many fields through extra projects and competitions; because I am interested in and enjoyed linking techniques to unique work. Last year, I won third place in the Devogame competition 2021 cloud and cybersecurity competition 🥉.
+<p align="left"> I have a passion for technology, so I entered my field. I graduated with a major in Computer Engineering. During the Academy's journey, I have experimented with many areas through additional projects and competitions; Because I am interested in unique fusion techniques and enjoy them. I participated in several competitions, and in the last competition I won third place in the Devogame 2021 competition for cloud security and cybersecurity 🥉.
 </p> 
 
 > **Explore all projects and practices [Here](https://github.com/MohammadYAmmar/MohammadYAmmar/blob/main/Projects_classification.md) :star:**
