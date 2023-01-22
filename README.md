@@ -26,14 +26,14 @@
 <p align="left">Connect with me:</p>
  <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-y-ammar/) [![StackOverFlow](https://img.shields.io/badge/StackOverFlow-%231DA1F2.svg?logo=StackOverFlow&logoColor=oragne)](https://stackoverflow.com/users/9244680/mohammad-yaser-ammar) [![leetcode](https://img.shields.io/badge/leetcode-%23FF0000.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Mohammad_Y_Ammar/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/MohammadYAmmar)  -->
 
- <a href="https://www.linkedin.com/in/mohammad-y-ammar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MohammadYAmmar" height="30" width="40" /></a> </p> 
+ <a href="https://www.linkedin.com/in/mohammad-y-ammar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MohammadYAmmar" height="30" width="40" /></a>  <a href="https://stackoverflow.com/users/9244680/mohammad-yaser-ammar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="MohammadYAmmar" height="30" width="40" /></a> <a href="https://leetcode.com/Mohammad_Y_Ammar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Mohammad_Y_Ammar" height="30" width="40" /></a> <a href="https://www.kaggle.com/mohammadyammar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kaggle_logo.png/400px-Kaggle_logo.png" alt="Mohammad_Y_Ammar" height="30" width="40" /></a> </p> 
 
 
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-y-ammar/)](https://www.linkedin.com/in/mohammad-y-ammar/) -->
 
 
-<p>My stackoverflow and leetcode:</p> <p> <a href="https://stackoverflow.com/users/9244680/mohammad-yaser-ammar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="MohammadYAmmar" height="30" width="40" /></a> <a href="https://leetcode.com/Mohammad_Y_Ammar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Mohammad_Y_Ammar" height="30" width="40" /></a> </p>
+<!-- <p>My stackoverflow and leetcode:</p> -->
   
   <p> <a href="https://mohammadyammar.github.io/">My website portfolio</a></p>
   
