@@ -24,13 +24,13 @@ Video in YouTube: https://www.youtube.com/watch?v=BNCBGkdswC8
 
 3 - [WMI Hardware Info: Add Unit Testing 🧪 with explain | The owner of the repository thanked me and accepted the additions to his project](https://github.com/MohammadYAmmar/WMIHardwareInfo-with-Unit-Testing)
 
-# Additional projects during the bachelor's degree of computer engineering:
+# Additional projects during the bachelor's degree in computer engineering:
 1 - [Design Moore FSM project via Quartus and ModelSim: Digital Systems Design course](https://github.com/MohammadYAmmar/Design-Moore-FSM-project-via-Quartus-and-ModelSim)
 
 2 - [Entry to NS3 simulation: Mobile and wireless networks course](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation) 
 
 # Smart methods training tasks:
-#### In the path of the Internet of Things:
+#### In the path of the Internet of Things (IoT):
 1 - [UI control panel to IoT for Robots](https://github.com/MohammadYAmmar/UI-control-panel-to-IoT-for-Robots)
 
 2 - [UI control panel for Robots by MIT App Inventor](https://github.com/MohammadYAmmar/UI-control-panel-for-Robots-by-MIT-App-Inventor)
@@ -52,7 +52,7 @@ Video in YouTube: https://www.youtube.com/watch?v=BNCBGkdswC8
 10 - [Robot arm with a camera](https://github.com/MohammadYAmmar/Robot-arm-with-a-camera)
 
 
-#### In the path of the Artificial intelligence:
+#### In the path of the Artificial Intelligence (AI):
 
 1 -[How to install a ROS AR | EN](https://github.com/MohammadYAmmar/How-to-install-a-ROS-AR-EN)
 
