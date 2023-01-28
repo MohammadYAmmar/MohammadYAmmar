@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Eng. Mohammad Yaser Ammar
 🔭 I'm currently working as Data Analyst Developer
 
-<p align="left"> I have a passion for technology, so I entered my field. I graduated with a major in Computer Engineering. During the Academy's journey, I have experimented with many areas through additional projects and competitions; Because I am interested in unique fusion techniques and enjoy them. I participated in several competitions, and in the last competition I won third place in the Devogame 2021 competition for cloud security and cybersecurity 🥉.
+<p align="left"> I have a passion for technology, so I entered my field. I graduated with a major in Computer Engineering. During the Academy's journey, I have experimented with many areas through additional projects and competitions; Because I am interested in unique fusion techniques and enjoy them. 
+ I participated in several competitions, and in the last competition I won third place in the Devogame 2021 competition for cloud security and cybersecurity 🥉.
 </p> 
 
 > **Explore all projects and practices [Here](https://github.com/MohammadYAmmar/MohammadYAmmar/blob/main/Projects_classification.md) :star: [My website portfolio](https://mohammadyammar.github.io/)**
@@ -23,7 +24,7 @@
 
   
 
-<p align="left">Connect with me:</p>
+<p align="left">Accounts:</p>
  <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-y-ammar/) [![StackOverFlow](https://img.shields.io/badge/StackOverFlow-%231DA1F2.svg?logo=StackOverFlow&logoColor=oragne)](https://stackoverflow.com/users/9244680/mohammad-yaser-ammar) [![leetcode](https://img.shields.io/badge/leetcode-%23FF0000.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Mohammad_Y_Ammar/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/c/MohammadYAmmar)  -->
 
  <a href="https://www.linkedin.com/in/mohammad-y-ammar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MohammadYAmmar" height="30" width="40" /></a>  <a href="https://stackoverflow.com/users/9244680/mohammad-yaser-ammar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="MohammadYAmmar" height="30" width="40" /></a> <a href="https://leetcode.com/Mohammad_Y_Ammar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Mohammad_Y_Ammar" height="30" width="40" /></a> <a href="https://www.kaggle.com/mohammadyammar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kaggle_logo.png/400px-Kaggle_logo.png" alt="Mohammad_Y_Ammar" height="30" width="40" /></a> </p> 
