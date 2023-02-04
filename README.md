@@ -13,7 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadyammar&theme=city_light&hide_border=true)<br/>
 <div>
 <a href="https://github.com/mohammadyammar">
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadyammar&show_icons=true"/> -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadyammar&theme=city_light&hide_border=true&include_all_commits=true&count_private=tru"/>
 
@@ -27,16 +26,6 @@
 
  <a href="https://www.linkedin.com/in/mohammad-y-ammar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MohammadYAmmar" height="30" width="40" /></a>  <a href="https://stackoverflow.com/users/9244680/mohammad-yaser-ammar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="MohammadYAmmar" height="30" width="40" /></a> <a href="https://leetcode.com/Mohammad_Y_Ammar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Mohammad_Y_Ammar" height="30" width="40" /></a> <a href="https://www.kaggle.com/mohammadyammar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kaggle_logo.png/400px-Kaggle_logo.png" alt="Mohammad_Y_Ammar" height="30" width="40" /></a> </p> 
 
-
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-y-ammar/)](https://www.linkedin.com/in/mohammad-y-ammar/) -->
-
-
-<!-- <p>My stackoverflow and leetcode:</p> -->
-  
-<!--   <p> <a href="https://mohammadyammar.github.io/">My website portfolio</a></p>
-   -->
-<!--
 
  <img alt="Mohammad Yaser Ammar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammadyammar" /> 
 
