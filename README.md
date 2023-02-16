@@ -27,12 +27,6 @@
  <a href="https://www.linkedin.com/in/mohammad-y-ammar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="MohammadYAmmar" height="30" width="40" /></a>  <a href="https://stackoverflow.com/users/9244680/mohammad-yaser-ammar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="MohammadYAmmar" height="30" width="40" /></a> <a href="https://leetcode.com/Mohammad_Y_Ammar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Mohammad_Y_Ammar" height="30" width="40" /></a> <a href="https://www.kaggle.com/mohammadyammar" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kaggle_logo.png/400px-Kaggle_logo.png" alt="Mohammad_Y_Ammar" height="30" width="40" /></a> </p> 
 
 
- <img alt="Mohammad Yaser Ammar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammadyammar" /> 
-
-# Coding Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadyammar)](https://github.com/mohammadyammar/github-readme-stats)
--->
-
 <!--
 **MohammadYAmmar/MohammadYAmmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
