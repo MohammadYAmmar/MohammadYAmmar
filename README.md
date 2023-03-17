@@ -3,7 +3,7 @@
 
 <p align="left"> I have a passion for technology, so I entered my field. I graduated in Computer Engineering. During the Academy's journey, I have experimented with many areas through competitions and additional projects; Because I am interested in unique fusion techniques and enjoy them. I participated in several competitions, in the last competition, I won third place in the Devogame 2021 competition for cloud security and cybersecurity 🥉 </p> 
 
-> **[Explore all projects and practices with classification](https://github.com/MohammadYAmmar/MohammadYAmmar/blob/main/Projects_classification.md) :star: [My website portfolio](https://mohammadyammar.github.io/)**
+> **[Explore classification of projects and practices](https://github.com/MohammadYAmmar/MohammadYAmmar/blob/main/Projects_classification.md) :star: [My website portfolio](https://mohammadyammar.github.io/)**
 
 <p> <img src="https://komarev.com/ghpvc/?username=MohammadYAmmar&label=Profile%20views&color=0e75b6&style=flat" alt="MohammadYAmmar" /> </p>
 
