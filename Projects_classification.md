@@ -29,6 +29,8 @@ Video on YouTube: https://www.youtube.com/watch?v=BNCBGkdswC8
 
 2 - [Entry to NS3 simulation: Mobile and wireless networks course](https://github.com/MohammadYAmmar/Entry-to-NS3-simulation) 
 
+# Applications 🔜
+
 # Smart methods training tasks:
 #### In the path of the Internet of Things (IoT):
 1 - [UI control panel to IoT for Robots](https://github.com/MohammadYAmmar/UI-control-panel-to-IoT-for-Robots)
