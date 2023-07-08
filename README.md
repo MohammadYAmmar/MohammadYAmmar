@@ -1,7 +1,8 @@
 ### Salem there 👋, I'm Eng. Mohammad Yaser Ammar
 🔭 I'm currently working as Data Analyst Developer
 
-<p align="left"> I have a passion for technology, so entered my field. I am Computer Engineer. During the Academy's journey, experimented in many fields through competitions and additional projects; Because I am interested in unique fusion techniques and enjoy them. Participated in several competitions, I won third place in the Devogame 2021 competition for cloud security and cybersecurity 🥉 </p> 
+<p align="left"> I am a highly passionate Computer Engineer with a strong affinity for technology. Throughout my academic journey, I have explored various fields by engaging in competitions and working on additional projects. My interest is in the unique fusion of techniques, which I find both intriguing and enjoyable.
+I have had the opportunity to participate in several competitions, earning accolades for my performance. Notably, I secured third place in the Devogame 2021 competition, focusing on cloud security and cybersecurity. 🥉 </p> 
 
 > **[Explore classification of projects and practices](https://github.com/MohammadYAmmar/MohammadYAmmar/blob/main/Projects_classification.md) :star: [My portfolio](https://mohammadyammar.github.io/)**
 
