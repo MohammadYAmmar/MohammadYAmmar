@@ -1,4 +1,4 @@
-### Salem there 👋, I'm Eng. Mohammad Yaser Ammar
+### Salem 👋, I'm Eng. Mohammad Yaser Ammar
 🔭 I'm currently working as Data Analyst Developer
 
 <p align="left"> I am a highly passionate Computer Engineer with a strong affinity for technology. Throughout my academic journey, I have explored various fields by engaging in competitions and working on additional projects. My interest is in the unique fusion of techniques, which I find both intriguing and enjoyable.
