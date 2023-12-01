@@ -1,5 +1,5 @@
 ### Salem 👋, I'm Eng. Mohammad Yaser Ammar
-🔭 I'm currently working as Data Analyst Developer
+🔭 I'm currently working as a Data Analyst Developer
 
 <p align="left"> I am a highly passionate Computer Engineer with a strong affinity for technology. Throughout my academic journey, I have explored various fields by engaging in competitions and working on additional projects. My interest is in the unique fusion of techniques, which I find both intriguing and enjoyable.
 I have had the opportunity to participate in several competitions, earning accolades for my performance. Notably, I secured third place in the Devogame 2021 competition, focusing on cloud security and cybersecurity. 🥉 </p> 
