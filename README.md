@@ -6,7 +6,7 @@ Exploring various fields and working on diverse projects.
 Participating and placing third in Devogame 2021 🥉, with a focus on cloud security and cybersecurity.
 Working on diverse tech projects and competitions. </p> 
 
-> **[Explore projects](https://github.com/MohammadYAmmar/MohammadYAmmar/blob/main/Projects_classification.md) :star: [My portfolio](https://mohammadyammar.github.io/)**
+> **[Explore projects](https://github.com/MohammadYAmmar/MohammadYAmmar/blob/main/Projects_classification.md) :star: [Web portfolio](https://mohammadyammar.github.io/)**
 
 <p> <img src="https://komarev.com/ghpvc/?username=MohammadYAmmar&label=Profile%20views&color=0e75b6&style=flat" alt="MohammadYAmmar" /> </p>
 
