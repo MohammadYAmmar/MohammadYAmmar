@@ -1,8 +1,3 @@
-```markdown
-<!--
-  README.md for Eng. Mohammad Yaser Ammar
--->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohammadYAmmar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -94,4 +89,3 @@ I’m a Computer Engineer passionate about technology, open RAN architectures, a
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadyammar&theme=city_light&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadyammar&layout=compact&langs_count=10" alt="Top Languages" height="180em"/>
 </div>
-```
