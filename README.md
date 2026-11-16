@@ -53,11 +53,6 @@ Computer Engineer building **5G O-RAN small cells**, **RIC xApps/rApps**, and **
 
 ---
 
-<details>
-<summary><b>📈 GitHub Stats</b> (click to expand)</summary>
-<br/>
+## 📈 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mohammadyammar&theme=city_light&hide_border=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadyammar&layout=compact&langs_count=10" alt="Top Languages" height="180em"/>
-
-</details>
